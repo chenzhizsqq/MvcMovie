@@ -20,7 +20,7 @@ using (var scope = app.Services.CreateScope())
     SeedData.Initialize(services);
 }
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline. 
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
