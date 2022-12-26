@@ -28,7 +28,7 @@ namespace MvcMovie.Controllers
         // }
 
         // GET: Movies
-        public async Task<IActionResult> Index(string movieGenre, string searchString)
+        public async Task<IActionResult> Index(string movieGenre, string searchString, string ratingString)
         {
             if (_context.Movie == null)
             {
@@ -45,6 +45,10 @@ namespace MvcMovie.Controllers
             if (!string.IsNullOrEmpty(searchString))
             {
                 movies = movies.Where(s => s.Title!.Contains(searchString));
+            }
+            if (!string.IsNullOrEmpty(ratingString))
+            {
+                movies = movies.Where(s => s.Rating!.Contains(ratingString));
             }
 
             if (!string.IsNullOrEmpty(movieGenre))
