@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJLLo48KiSdzpQ5wURJKx2KwmIAL9yXIE9Tz71mEBGQyRW1gtUiwVqKRqnF8+WCRt45QmndnHX6UOzvU/dCFwQ==",
+  "dgSpecHash": "8UiJCBcLSXAGA1UCWNoy29TR1rzxk70w5fj6dn+TEyMrFFzcO61nLY/XOgt4C34mgLEDGXvooHdvDzFgGmKRzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "c:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\surface\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\surface\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
