@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj": {}
+    "c:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj": {
+    "c:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "c:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "c:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\surface\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\obj\\",
+        "outputPath": "c:\\Users\\surface\\VSCodeWorkSpace\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\surface\\AppData\\Roaming\\NuGet\\NuGet.Config",
